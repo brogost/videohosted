@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<license>
+	<livecams_enable>1</livecams_enable>
+	<recording_enable>0</recording_enable>
+	<alerts_enable>0</alerts_enable>
+	<countoflicense>100</countoflicense>
+	<allowedusercount>10</allowedusercount>
+</license>
